@@ -5,6 +5,8 @@ Repo for learning repo web app development.
 
 [Hooks API](https://reactjs.org/docs/hooks-reference.html#usestate)
 
+[Learn React in 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=4s)
+
 
 # Purpose
 
